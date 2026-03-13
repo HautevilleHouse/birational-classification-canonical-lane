@@ -1,0 +1,21 @@
+title: "Birational Classification via Model-Class Persistence"
+message: "If you use this workspace, cite the manuscript and theorem notes."
+type: software
+authors:
+  - name: "HautevilleHouse"
+date-released: 2026-03-05
+repository-code: "https://github.com/HautevilleHouse/birational-classification-canonical-lane"
+url: "https://github.com/HautevilleHouse/birational-classification-canonical-lane"
+license: None
+keywords:
+  - birational-geometry
+  - minimal-model-program
+  - algebraic-geometry
+  - local-to-global
+  - reproducibility
+preferred-citation:
+  type: article
+  title: "Birational Classification via Model-Class Persistence"
+  authors:
+    - name: "HautevilleHouse"
+  date: 2026-03-05

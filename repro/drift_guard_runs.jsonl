@@ -1,0 +1,7 @@
+
+{"all_pass": true, "gates": {"MMP_G1": "PASS", "MMP_G2": "PASS", "MMP_G3": "PASS", "MMP_G4": "PASS", "MMP_G5": "PASS", "MMP_G6": "PASS", "MMP_GM": "PASS"}, "strict_margin": 0.8045052292839904, "timestamp_utc": "2026-03-13T03:57:10+00:00"}
+{"all_pass": true, "gates": {"MMP_G1": "PASS", "MMP_G2": "PASS", "MMP_G3": "PASS", "MMP_G4": "PASS", "MMP_G5": "PASS", "MMP_G6": "PASS", "MMP_GM": "PASS"}, "strict_margin": 0.8045052292839904, "timestamp_utc": "2026-03-13T03:58:08+00:00"}
+{"all_pass": true, "gates": {"MMP_G1": "PASS", "MMP_G2": "PASS", "MMP_G3": "PASS", "MMP_G4": "PASS", "MMP_G5": "PASS", "MMP_G6": "PASS", "MMP_GM": "PASS"}, "strict_margin": 0.8045052292839904, "timestamp_utc": "2026-03-13T03:58:50+00:00"}
+{"all_pass": true, "gates": {"BRG_G1": "PASS", "BRG_G2": "PASS", "BRG_G3": "PASS", "BRG_G4": "PASS", "BRG_G5": "PASS", "BRG_G6": "PASS", "BRG_GM": "PASS"}, "strict_margin": 0.8038585209003215, "timestamp_utc": "2026-03-13T05:04:38+00:00"}
+{"all_pass": true, "gates": {"BCL_G1": "PASS", "BCL_G2": "PASS", "BCL_G3": "PASS", "BCL_G4": "PASS", "BCL_G5": "PASS", "BCL_G6": "PASS", "BCL_GM": "PASS"}, "strict_margin": 0.8038585209003215, "timestamp_utc": "2026-03-13T05:26:47+00:00"}
+{"all_pass": true, "gates": {"BCL_G1": "PASS", "BCL_G2": "PASS", "BCL_G3": "PASS", "BCL_G4": "PASS", "BCL_G5": "PASS", "BCL_G6": "PASS", "BCL_GM": "PASS"}, "strict_margin": 0.8038585209003215, "timestamp_utc": "2026-03-13T05:27:33+00:00"}
