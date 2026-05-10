@@ -158,6 +158,16 @@ Once bad limits are excluded, the extracted endpoint class is transferred to the
 
 The determining class is recorded in `notes/IDENTIFICATION_BRIDGE.md`. The coherence remainder is strict-zero in the current certificate.
 
+### 6.4 Mainstream translation note
+
+In ordinary birational-geometric language, the canonical-lane endpoint is the
+predicted birational endpoint package on the declared admissible lattice. The
+objects `B_tau`, `M_tau`, and `T_tau` encode the model, discrepancy, nefness,
+and fibration data tracked across admissible families, while the bridge note
+records the determining observables that identify the extracted limit with the
+standard target class. No separate ambient endpoint is asserted outside the
+declared admissible families.
+
 ---
 
 ## 7. Constants, Reproducibility, and Runtime Snapshot
