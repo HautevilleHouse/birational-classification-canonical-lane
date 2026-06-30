@@ -1,5 +1,5 @@
 __pycache__/
 *.pyc
-.repro_tmp/
+.tmp/
 repro/certificate_runtime.json
 repro/drift_guard_runs.jsonl
